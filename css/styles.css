@@ -36,7 +36,6 @@ main {
   width: 100%;
   margin: 0;
   padding: 7px 0;
-  background-color: #ccc;
 }
 
 .main-nav {
@@ -45,7 +44,6 @@ main {
   width: 100%;
   justify-content: center;
   position: fixed;
-  background-color: #ccc;
   top: 10%;
 }
 
